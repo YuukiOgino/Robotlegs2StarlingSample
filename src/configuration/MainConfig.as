@@ -16,7 +16,7 @@ package configuration
 	 * 
 	 * このクラスで以下の設定を実行しています。
 	 * 	・UserModel はシングルトンである
-	 * 	・UserView の対になるメディエータは UserViewMediator である
+	 * 	UserStarlingView の対になるメディエータは UserStarlingMediator である
 	 * 　・メディエーターでUserChangeEvent.USER_CHANGEが呼ばれた場合、UserCommondを実行する
 	 * 
 	 * @author ogino
